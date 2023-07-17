@@ -2,7 +2,7 @@
 # DengAI: Dengue Disease Spread
 
 
-## Deangu Disease Spread Prediction 
+## Dengue Disease Spread Prediction 
 
 
 
